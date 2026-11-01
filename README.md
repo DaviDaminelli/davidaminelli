@@ -8,6 +8,6 @@ Cybersecurity and game modding are my topics of interest.
 My main tools today are from web dev, though i dont limit myself to it and look forward to build with other technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nextjs,postgres,java,c#" />
+    <img src="https://skillicons.dev/icons?i=git,nextjs,postgres,java,typescript,c" />
   </a>
 </p>
