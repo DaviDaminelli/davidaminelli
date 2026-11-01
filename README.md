@@ -1,6 +1,6 @@
 ## Salutations!
 
-Building solutions around who uses them and overcoming problems are my passion. Software engineering is simply my current means(to this end).
+Building solutions around who uses them and overcoming problems are my passion. Software engineering is simply my current mean(to this end).
 
 I'm a junior fullstack developer. I like backend and business, though I handle myself pretty well with ui and specially ux.
 Cybersecurity and game modding are my topics of interest.
