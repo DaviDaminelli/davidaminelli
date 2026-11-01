@@ -1,16 +1,13 @@
-## Hi there 👋
+## Salutations!
 
-<!--
-**DaviDaminelli/davidaminelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building solutions around who uses them and overcoming problems are my passion. Software engineering is simply my current means(to this end).
 
-Here are some ideas to get you started:
+I'm a junior fullStack developer. I like backend and business, though I handle myself pretty well with ui and specially ux.
+Cybersecurity and game modding are my topics of interest.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tools today are from web dev, though i dont limit myself when it comes to other technologies.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,nextjs,postgres,java,c#" />
+  </a>
+</p>
