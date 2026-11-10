@@ -6,7 +6,6 @@ I'm a mid level fullstack developer. I like backend and business, though I handl
 Cybersecurity and game dev are my topics of interest.
 
 I've delivered audit-critical software, quality standart and recovered SLA losses on 7 figures contract at Valeo.
-
 Currently developing a fiscal, asset and client compliant solution for a franchising company of Emovi Group in Brazil.
 
 My main tools today are from web dev, though i dont limit myself to it and look forward to build with other technologies
